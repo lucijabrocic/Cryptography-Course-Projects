@@ -1,0 +1,10 @@
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\bin\Release\Hillova_sifra.exe.config
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\bin\Release\Hillova_sifra.exe
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\bin\Release\Hillova_sifra.pdb
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.csprojAssemblyReference.cache
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.Form1.resources
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.Properties.Resources.resources
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.csproj.GenerateResource.cache
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.exe
+C:\Users\Lucija\Desktop\HillovaSifra\Hillova_sifra\Hillova_sifra\obj\Release\Hillova_sifra.pdb

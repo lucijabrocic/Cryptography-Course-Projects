@@ -1,0 +1,10 @@
+C:\Users\Lucija\Desktop\CaesarCipher\bin\Debug\WindowsApplication.exe.config
+C:\Users\Lucija\Desktop\CaesarCipher\bin\Debug\WindowsApplication.exe
+C:\Users\Lucija\Desktop\CaesarCipher\bin\Debug\WindowsApplication.pdb
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\CezarovaSifra.csprojAssemblyReference.cache
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\kripto_zadaca1_lucija.Form1.resources
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\CezarovaSifra.Properties.Resources.resources
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\CezarovaSifra.csproj.GenerateResource.cache
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\CezarovaSifra.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Lucija\Desktop\CaesarCipher\obj\x86\Debug\WindowsApplication.pdb
