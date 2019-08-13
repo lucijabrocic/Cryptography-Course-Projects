@@ -1,0 +1,30 @@
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\bin\Debug\ElGamal.exe.config
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\bin\Debug\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\bin\Debug\ElGamal.pdb
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.csprojAssemblyReference.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.Form1.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.Properties.Resources.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.csproj.GenerateResource.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.csproj.CoreCompileInputs.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\ElGamal\ElGamal\obj\Debug\ElGamal.pdb
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\bin\Debug\ElGamal.exe.config
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\bin\Debug\ElGamal.exe
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\bin\Debug\ElGamal.pdb
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.csprojAssemblyReference.cache
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.Form1.resources
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.Properties.Resources.resources
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.csproj.GenerateResource.cache
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.exe
+C:\Users\Lucija\Desktop\3. zadaca - kripto\ElGamal\ElGamal\obj\Debug\ElGamal.pdb
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Debug\ElGamal.exe.config
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Debug\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Debug\ElGamal.pdb
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.csprojAssemblyReference.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.Form1.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.Properties.Resources.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.csproj.GenerateResource.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.csproj.CoreCompileInputs.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Debug\ElGamal.pdb

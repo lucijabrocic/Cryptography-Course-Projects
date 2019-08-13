@@ -1,0 +1,10 @@
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Release\ElGamal.exe.config
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Release\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\bin\Release\ElGamal.pdb
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.csprojAssemblyReference.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.Form1.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.Properties.Resources.resources
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.csproj.GenerateResource.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.csproj.CoreCompileInputs.cache
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.exe
+E:\PMF\4. godina\I. semestar\KRIPTO - Kriptografija\vjezbe\KriptoZadaca3_LucijaBrocic\ElGamal_LucijaBrocic\ElGamal\obj\Release\ElGamal.pdb
