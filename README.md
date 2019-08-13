@@ -13,5 +13,5 @@ Some simple Windows forms projects written in C#, made for Cryptography course a
 <br>
 <b>ElGamal encryption</b>
 <br>
-"Napraviti program koji za prost broj p i &alpha; iz $\mathbb{Z}_p^*$ primitivni korijen ispisuje javni i tajni ključ te šifrira i dešifrira dani broj m koristeći ElGamalov algoritam.
+"Napraviti program koji za prost broj p i &alpha; iz <MATH>\mathbb{Z}_p^*</MATH> primitivni korijen ispisuje javni i tajni ključ te šifrira i dešifrira dani broj m koristeći ElGamalov algoritam.
 (Napomena: sve parametre koji se biraju možete postaviti, po želji, ili da ih program sam generira (sukladno uvjetima algoritma - ftp://ftp.rsasecurity.com/pub/pdfs/tr201.pdf., page 10, 2.3 The Binary Method) ili da ih korisnik bira)."
